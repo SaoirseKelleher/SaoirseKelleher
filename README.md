@@ -1,0 +1,1 @@
+I'm Saoirse Kelleher, a PhD candidate at the University of Melbourne in the Quantitative and Applied Ecology group. My research focuses on occupancy models and how to build them. I'm also interested in conservation technology, particularly bioacoustics.
